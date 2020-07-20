@@ -1,0 +1,38 @@
+{
+  "name": "umamz.com",
+  "short_name": "umamz.com",
+  "start_url": "https://www.umamz.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "umamz.com menyajikan berbagai artikel terkini android, teknologi, blogger, pendidikan, dan berita viral.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-qcdvOgxtL8E/XxWlLnsjH1I/AAAAAAAACmQ/Eaz3lCJwXWkjVeN5658w-jSelz_ohLzxgCNcBGAsYHQ/s48/umamz.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-qcdvOgxtL8E/XxWlLnsjH1I/AAAAAAAACmQ/Eaz3lCJwXWkjVeN5658w-jSelz_ohLzxgCNcBGAsYHQ/s72/umamz.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-qcdvOgxtL8E/XxWlLnsjH1I/AAAAAAAACmQ/Eaz3lCJwXWkjVeN5658w-jSelz_ohLzxgCNcBGAsYHQ/s96/umamz.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-qcdvOgxtL8E/XxWlLnsjH1I/AAAAAAAACmQ/Eaz3lCJwXWkjVeN5658w-jSelz_ohLzxgCNcBGAsYHQ/s144/umamz.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-qcdvOgxtL8E/XxWlLnsjH1I/AAAAAAAACmQ/Eaz3lCJwXWkjVeN5658w-jSelz_ohLzxgCNcBGAsYHQ/s168/umamz.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-qcdvOgxtL8E/XxWlLnsjH1I/AAAAAAAACmQ/Eaz3lCJwXWkjVeN5658w-jSelz_ohLzxgCNcBGAsYHQ/s192/umamz.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-qcdvOgxtL8E/XxWlLnsjH1I/AAAAAAAACmQ/Eaz3lCJwXWkjVeN5658w-jSelz_ohLzxgCNcBGAsYHQ/s512/umamz.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
